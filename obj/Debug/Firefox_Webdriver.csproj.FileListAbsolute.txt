@@ -1,0 +1,12 @@
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\Firefox_Webdriver.exe.config
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\Firefox_Webdriver.exe
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\Firefox_Webdriver.pdb
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\WebDriver.dll
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\WebDriver.Support.dll
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\WebDriver.xml
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\WebDriver.Support.xml
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\obj\Debug\Firefox_Webdriver.csprojAssemblyReference.cache
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\obj\Debug\Firefox_Webdriver.csproj.CoreCompileInputs.cache
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\obj\Debug\Firefox_Webdriver.csproj.CopyComplete
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\obj\Debug\Firefox_Webdriver.exe
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\obj\Debug\Firefox_Webdriver.pdb
