@@ -10,3 +10,11 @@ C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\obj\Debug\Firefo
 C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\obj\Debug\Firefox_Webdriver.csproj.CopyComplete
 C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\obj\Debug\Firefox_Webdriver.exe
 C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\obj\Debug\Firefox_Webdriver.pdb
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\HtmlAgilityPack.dll
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\System.Net.Http.dll
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\klync\Source\Repos\Firefox_Webdriver\Firefox_Webdriver\bin\Debug\HtmlAgilityPack.xml

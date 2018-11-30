@@ -25,12 +25,16 @@ namespace Firefox_Webdriver
             driver.FindElement(By.XPath("//*[@id='main']/section/section/div[2]/table/tbody/tr[2]/td[1]/a")).Click();
 
             IList<IWebElement> stockNames = driver.FindElements(By.ClassName("_61PYt"));
+            IList<IWebElement> lastPrice = driver.FindElements(By.ClassName("aVPt9 Ylni0"));
+            IList<IWebElement> currency = driver.FindElements(By.ClassName("_61PYt"));
 
-            Console.WriteLine("Number of stocks in Katelynn's Portfolio: " + stockNames.Count);
+            Console.WriteLine("Info on stocks in Katelynn's Portfolio: " + stockNames.Count);
 
             for (int i = 0; i < stockNames.Count; i++)
             {
                 Console.WriteLine(stockNames[i].Text);
+                Console.WriteLine(lastPrice[i]);
+                Console.WriteLine(currency[i].Text);
             }
 
             Console.WriteLine("\n");
